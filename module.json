@@ -1,18 +1,13 @@
 {
   "id": "pf2e-troubles-in-otari-enhanced-beach-camp-by-wise",
   "title": "PF2E Troubles in Otari Enhanced Beach Camp by Wise",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "11.315"
   },
   "relationships": {
     "requires": [
-      {
-        "id": "baileywiki-nuts-and-bolts",
-        "type": "module",
-        "compatibility": {}
-      },
       {
         "id": "JB2A_DnD5e",
         "type": "module",
@@ -49,16 +44,6 @@
     "recommends": [
       {
         "id": "jb2a_patreon",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "michaelghelfi",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-abomination-vaults",
         "type": "module",
         "compatibility": {}
       }
