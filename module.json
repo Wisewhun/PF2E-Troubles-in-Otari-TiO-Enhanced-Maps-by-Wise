@@ -1,7 +1,7 @@
 {
   "id": "pf2e-troubles-in-otari-enhanced-beach-camp-by-wise",
   "title": "PF2E Troubles in Otari Enhanced Beach Camp by Wise",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
@@ -46,6 +46,10 @@
         "id": "jb2a_patreon",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module"
       }
     ]
   },
@@ -69,7 +73,7 @@
     }
   ],
   "url": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise",
-  "manifest": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/24.4.2.1.1/module.json",
-  "download": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/24.4.2.1.1/TiO_23.4.2.1.1.zip",
+  "manifest": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.1.2/module.json",
+  "download": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.1.2/TiO_23.4.3.1.2.zip",
   "description": "This module can work as a standalone Enhanced Map and a Base of Operations Upgrade Map or it can be used in connection with PF2E Troubles in Otari Chapter 1 Fishing for Adventure."
 }
