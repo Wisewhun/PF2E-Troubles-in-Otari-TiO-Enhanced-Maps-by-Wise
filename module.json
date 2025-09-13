@@ -1,10 +1,10 @@
 {
   "id": "pf2e-troubles-in-otari-enhanced-beach-camp-by-wise",
   "title": "PF2E Troubles in Otari Enhanced Beach Camp by Wise",
-  "version": "3.2.2",
+  "version": "23.4.4.0.0",
   "compatibility": {
     "minimum": "11",
-    "verified": "12.328"
+    "verified": "13.347"
   },
   "relationships": {
     "requires": [
@@ -24,12 +24,17 @@
         "compatibility": {}
       },
       {
-        "id": "multiface-tiles",
+        "id": "tagger",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "tagger",
+        "id": "monks-tokenbar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height",
         "type": "module",
         "compatibility": {}
       }
@@ -54,7 +59,8 @@
       "name": "Wise",
       "discord": "Wise5638",
       "email": "wise.gaming.insight@gmail.com",
-      "url": "https://ko-fi.com/wisewhun"
+      "url": "https://ko-fi.com/wisewhun",
+      "flags": {}
     }
   ],
   "packs": [
@@ -71,7 +77,8 @@
     }
   ],
   "url": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise",
-  "manifest": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.2.2/module.json",
-  "download": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.2.2/TiO-23.4.3.2.2.zip",
-  "description": "This module can work as a standalone Enhanced Map and a Base of Operations Upgrade Map or it can be used in connection with PF2E Troubles in Otari Chapter 1 Fishing for Adventure."
+  "manifest": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.3.1/module.json",
+  "download": "https://github.com/Wisewhun/PF2E-Troubles-in-Otari-TiO-Enhanced-Maps-by-Wise/releases/download/23.4.3.3.1/TiO-23.4.3.3.1.zip",
+  "description": "<p>This module can work as a standalone Enhanced Map and a Base of Operations Upgrade Map or it can be used in connection with PF2E Troubles in Otari Chapter 1 Fishing for Adventure.</p>",
+  "flags": {}
 }
